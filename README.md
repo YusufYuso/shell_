@@ -1,3 +1,3 @@
-# This is shell_/ Repository
+# This is shell_ project repository
 
-Where you can find shell_/ Project's folders/files.
+Where you can find all of shell_ Project's folders/files.
